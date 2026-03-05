@@ -3,7 +3,7 @@
 A multi-tenant Support Ticket System built with **ASP.NET Core (.NET 7)**,
 simulating a real SaaS backend used by technical support teams.
 
-## 🚀 Features
+## Features
 - Multi-tenant architecture
 - JWT Authentication
 - Role-based access (Admin / Support / User)
@@ -11,14 +11,14 @@ simulating a real SaaS backend used by technical support teams.
 - RESTful API
 - Azure-ready deployment
 
-## 🛠️ Tech Stack
+## Tech Stack
 - C#, .NET 7
 - ASP.NET Core Web API
 - Entity Framework Core
 - JWT Authentication
 - Azure App Service
 
-## 📌 Use Cases
+## Use Cases
 - SaaS platforms
 - Customer support systems
 - Technical support automation
