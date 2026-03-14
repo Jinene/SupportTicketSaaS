@@ -1,7 +1,10 @@
 # 🎟️ Support Ticket SaaS API
 
 A multi-tenant Support Ticket System built with **ASP.NET Core (.NET 7)**,
+
 simulating a real SaaS backend used by technical support teams.
+
+
 
 ## Features
 - Multi-tenant architecture
