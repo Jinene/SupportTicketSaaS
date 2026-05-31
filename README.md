@@ -25,7 +25,7 @@ simulating a real SaaS backend used by technical support teams.
 - Customer support systems
 - Technical support automation
 
-## ▶️ Run Locally
+## ▶️ Run Locallya
 ```bash
 dotnet restore
 dotnet run
